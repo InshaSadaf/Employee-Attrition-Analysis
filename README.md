@@ -26,7 +26,7 @@ Employee attrition is a crucial HR concern, and predicting it can save organizat
     Histograms of key features
 
 Bar plot of feature importances
-    <p align="center"> <img src="screenshots/feature_importance.png" width="600"> </p>
+    <p align="center"> <img src="https://github.com/InshaSadaf/Employee-Attrition-Analysis/blob/main/Important%20feature%20plt.png" width="600"> </p>
 ## 🛠️ Tech Stack
     -  Python, Pandas, NumPy
     -  Matplotlib, scikit-learn
